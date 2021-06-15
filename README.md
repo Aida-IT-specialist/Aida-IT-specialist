@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @Aida-IT-specialist
+- 👀 I’m interested in coding, programmer languages,read books, drawing, musics,art and other.
+- 🌱 I’m currently learning  software engenering.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...
+
+<!---
+Aida-IT-specialist/Aida-IT-specialist is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
