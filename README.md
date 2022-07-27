@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aida-IT-specialist
+- 👋 Hi, I’m @Alievnasg
 - 👀 I’m interested in coding, programmer languages,read books, drawing, musics,art and other.
 - 🌱 I’m currently learning  software engenering.
 - 💞️ I’m looking to collaborate on ...
